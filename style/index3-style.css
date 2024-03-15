@@ -1,0 +1,17 @@
+      * {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 0px;
+      }
+      p {
+        margin: 5px;
+      }
+      .prva {
+        font-family: "Courier New", Courier, monospace;
+        color: blue;
+      }
+      .druga {
+        color: red;
+      }
+      .treca {
+        color: green;
+      }
